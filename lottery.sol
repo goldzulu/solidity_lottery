@@ -93,4 +93,3 @@ contract Lottery is Ownable{
 		emit LotteryStateChanged(state);
 	}
 }
-view raw
